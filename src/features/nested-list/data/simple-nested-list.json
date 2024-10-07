@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2aac9d3e-fe58-4ec6-89f4-e08da83399c8",
+    "value": "What is React?",
+    "children": [
+      {
+        "id": "4d84b8aa-d6b8-421e-ac66-1fa6511cc48b",
+        "value": "Definition of React",
+        "children": [
+          {
+            "id": "bebe3537-1de9-4a9b-a285-0060fe14e905",
+            "value": "React is a library for building user interfaces"
+          },
+          {
+            "id": "9a7d7107-518a-429c-8124-d6c757ee2bb3",
+            "value": "React uses a component-based model"
+          }
+        ]
+      },
+      {
+        "id": "1ee6edb0-7677-4f46-813c-16811419adce",
+        "value": "Advantages of React",
+        "children": [
+          {
+            "id": "db657644-4cf7-4504-973b-1d5015673dcf",
+            "value": "Simplicity and flexibility"
+          },
+          {
+            "id": "d13fffb3-a922-4dad-abbf-0a4b46e78127",
+            "value": "Large developer community"
+          },
+          {
+            "id": "c16bf38c-1b88-41c4-96ac-bc476a5e3caf",
+            "value": "Active development and support"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0d86e0a1-831f-49b8-bf74-81b31c61b929",
+    "value": "What is a React component?"
+  },
+  {
+    "id": "c796dc7f-af45-4983-b191-7f7424cc99f4",
+    "value": "What is React Hooks?"
+  },
+  {
+    "id": "d9553344-9181-4e3c-b639-b188b21d3fdf",
+    "value": "What is React Context?"
+  }
+]
