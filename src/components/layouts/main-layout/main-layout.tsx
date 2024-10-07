@@ -5,5 +5,6 @@ export const MainLayout = styled.main`
   flex-direction: column;
   place-items: center start;
   padding: 16px;
+  margin: 0 auto;
   max-width: 1280px;
 `;
