@@ -16,3 +16,21 @@
 Верстка:
 - flex
 - дизайн на свой вкус
+
+## App demo
+
+https://nested-list-c8e8c2.netlify.app/
+
+## Installation and Running
+
+Для запуска приложения выполните команды:
+
+```shell
+git clone https://github.com/shopot/kinescope-frontend.git
+
+cd kinescope-frontend
+
+npm install
+
+npm run dev
+```
